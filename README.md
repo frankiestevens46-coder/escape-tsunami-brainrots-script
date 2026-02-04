@@ -1,17 +1,16 @@
-# escape-tsunami-brainrots-script
-# Escape Tsunami for Brainrots – Exploit Script
+# Escape Tsunami for Brainrots – Script
 
-Roblox exploit script for **Escape Tsunami for Brainrots**.
+A Roblox Lua exploit script for **Escape Tsunami for Brainrots**.
 
-This script adds powerful gameplay features designed for testing, grinding, and experimenting in the game.
+This script focuses on efficient progression and testing features, allowing players to automate gameplay and experiment with mechanics beyond normal limits.
 
 ---
 
 ## 🔥 Features
-- **NEW DUPE (NOT VISUAL)**  
+- **NEW Dupe (Not Visual)**
 - **God Mode**
 - **Auto Farm**
-- More features included in-script
+- Additional features included inside the script
 
 ---
 
