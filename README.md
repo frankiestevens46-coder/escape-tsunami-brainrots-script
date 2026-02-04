@@ -1,0 +1,1 @@
+# escape-tsunami-brainrots-script
